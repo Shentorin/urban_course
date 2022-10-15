@@ -3,7 +3,7 @@
 ## О работе
 - Якубова Мария Юрьевна
 - https://colab.research.google.com/drive/1kaHLvC_Z40sJMGv_oubaWkTUNy5HkHOB?usp=sharing
-- https://drive.google.com/file/d/198_ZFFqO1ZypPtzM0_cDyb-g_IsNe-4c/view?usp=sharing
+- https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/26zamu6gwp1f13y/keplergl_jyhht7k.json
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
